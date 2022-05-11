@@ -1,0 +1,8 @@
+.list-group-item-light :hover {
+    color: red;
+}
+
+#imagelast {
+    width: 5%;
+    height: 5%;
+}

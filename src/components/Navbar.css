@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#name {
+    font-size: 60px;
+}
+
+/* .container-fluid span {
+    color: red;
+} */
+
+.h5 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#aboutme {
+    font-size: x-large;
+}
+
+.navbar li :hover {
+    color: white
+}
+
+.list-group {
+    width: 30%;
+
+}
+
+.list-group :hover {
+    background-color: gainsboro
+}
+
+.list-group-item:hover {
+    color: black
+}
+
+.card {
+    float: left;
+    width: 25%;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#image {
+    border: solid;
+    border-radius: 30px;
+}
+
+.card:hover {
+    transform: scale(1.10) translateZ(0);
+    transition: all 0.3s ease-in-out;
+}
+
+#imagelast {
+    width: 5%;
+    height: 5%;
+}
+
+.container-fluid a :hover {
+    color: blue;
+}
+
+#ftxt {
+    color: black;
+}
+
+.fa :hover {
+    color: red;
+}
+
+#flogo {
+    width: 50px;
+    height: 50px;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,800);
+
+.snip1175 {
+    font-family: 'Raleway', Arial, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.snip1175 * {
+    box-sizing: border-box;
+    -webkit-transition: all 0.35s ease;
+    transition: all 0.35s ease;
+}
+
+.snip1175 li {
+    display: inline-block;
+    list-style: outside none none;
+    margin: 0 1.2em;
+    overflow: hidden;
+}
+
+.snip1175 a {
+    padding: 0 0.5em 0 0.2em;
+    color: rgba(255, 255, 255, 0.5);
+    position: relative;
+    display: inline-block;
+    letter-spacing: 1px;
+    margin: 0;
+    text-decoration: none;
+}
+
+.snip1175 a:before,
+.snip1175 a:after {
+    position: absolute;
+    -webkit-transition: all 0.35s ease;
+    transition: all 0.35s ease;
+}
+
+.snip1175 a:before {
+    right: 100%;
+    display: block;
+    width: 3px;
+    height: 100%;
+    content: "";
+    background-color: #f39c12;
+}
+
+.snip1175 a:after {
+    padding: 0 0.5em 0 0.2em;
+    position: absolute;
+    right: 100%;
+    top: 0;
+    content: attr(data-hover);
+    color: black;
+    white-space: nowrap;
+}
+
+.snip1175 li:hover a,
+.snip1175 .current a {
+    transform: translateX(100%);
+}
