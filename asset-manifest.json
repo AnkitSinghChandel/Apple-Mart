@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Apple%20Mart/static/css/main.ff505557.css",
+    "main.js": "/Apple%20Mart/static/js/main.04cfae0d.js",
+    "static/js/787.9b31a98a.chunk.js": "/Apple%20Mart/static/js/787.9b31a98a.chunk.js",
+    "static/media/img2.jpg": "/Apple%20Mart/static/media/img2.80fa1e526d76373a2f47.jpg",
+    "static/media/img1.jpg": "/Apple%20Mart/static/media/img1.aff43e06b85a6d64ae09.jpg",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Apple%20Mart/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/img3.jpg": "/Apple%20Mart/static/media/img3.f7fb55764b0f2fc0f9b8.jpg",
+    "static/media/contact.png": "/Apple%20Mart/static/media/contact.96c63c3c1d7b93fc0aec.png",
+    "static/media/about.png": "/Apple%20Mart/static/media/about.089f3557ff463d2cf78d.png",
+    "static/media/fontawesome-webfont.eot": "/Apple%20Mart/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Apple%20Mart/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Apple%20Mart/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Apple%20Mart/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/ASC.jpg": "/Apple%20Mart/static/media/ASC.b24fa9018d5c1ca04eff.jpg",
+    "index.html": "/Apple%20Mart/index.html",
+    "main.ff505557.css.map": "/Apple%20Mart/static/css/main.ff505557.css.map",
+    "main.04cfae0d.js.map": "/Apple%20Mart/static/js/main.04cfae0d.js.map",
+    "787.9b31a98a.chunk.js.map": "/Apple%20Mart/static/js/787.9b31a98a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff505557.css",
+    "static/js/main.04cfae0d.js"
+  ]
+}
