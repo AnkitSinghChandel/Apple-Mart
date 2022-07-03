@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+
 const Login = () => {
     return (
         <>
@@ -21,9 +22,9 @@ const Login = () => {
                             <input type="reset" class="btn btn-primary" />
                         </div>
                     </div>
-                    <div class="col w-25 g-3 pt-4">
-                        <p class="" id="lasttext">if you don't have an account </p><br />
-                        <Link class="btn btn-success " to="signup" role="button" id="crtacc">Create an Account</Link>
+                    <div class="col w-25 g-3 py-2 ">
+                        <p class="" id="lasttext">if you don't have an account <span> <Link class="" to="/signup" id="crtacc">signup</Link> here. </span> </p><br />
+                        {/* <Link class="btn btn-success" to="/signup" role="button" id="crtacc">Create an Account</Link> */}
                     </div>
                 </form>
             </center>

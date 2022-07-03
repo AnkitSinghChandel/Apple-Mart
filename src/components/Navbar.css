@@ -79,6 +79,7 @@ html {
     height: 50px;
 }
 
+
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,500,800);
 
 .snip1175 {
@@ -128,12 +129,12 @@ html {
 }
 
 .snip1175 a:after {
-    padding: 0 0.5em 0 0.2em;
+    padding: 0 1.5em 0 1.5em;
     position: absolute;
     right: 100%;
     top: 0;
     content: attr(data-hover);
-    color: black;
+    color: rgb(242, 238, 238);
     white-space: nowrap;
 }
 

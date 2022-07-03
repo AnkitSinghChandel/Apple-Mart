@@ -39,8 +39,8 @@ const Cart = () => {
                     <div className="row">
                         <h3>Your Cart is Empty</h3>
                     </div>
-                    <NavLink to="/Product" className="btn btn-outline-dark ms-2 px-3 my-3 py-2">
-                        ⬅ Go Back for Shopping
+                    <NavLink to="/Product" className="btn btn-outline-primary ms-2 px-3 my-3 py-2">
+                        ⬅ Go Back to Shopping
                     </NavLink>
                 </div>
             </div>

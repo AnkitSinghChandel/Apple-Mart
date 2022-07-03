@@ -56,7 +56,7 @@ const Signup = () => {
                         <label class="form-check-label" for="exampleCheck1">Check me out and remember your username and
                             password</label>
                     </div>
-                    <div class="col w-50 g-3" id="lasttext">
+                    <div class="col w-50 g-3 pb-4" id="lasttext">
                         <input type="submit" class="btn btn-primary" value="Submit" />&nbsp; &nbsp;
                         <input type="reset" class="btn btn-primary" />
                     </div>

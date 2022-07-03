@@ -1,0 +1,18 @@
+
+.vertical-line {
+    display: inline-block;
+    border-left: 1px solid #ccc;
+    margin: 0 30px;
+    height: 30px;
+}
+
+.searchbar{
+    border-radius: 50px;
+    
+}
+
+.search {
+    border-radius: 50px;
+    /* width: 100px; */
+}
+

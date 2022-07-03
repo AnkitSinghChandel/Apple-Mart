@@ -10,6 +10,8 @@ import Cart from './components/Cart';
 import Checkout from './components/Checkout';
 import Login from './components/Login';
 import Signup from './components/Signup';
+import BlackFooter from "./components/BlackFooter";
+import Header from './components/Header';
 import {
   Routes,
   Route
@@ -18,7 +20,9 @@ import {
 function App() {
   return (
     <>
-      <Navbar />
+      {/* <Header2 /> */}
+      <Header />
+      {/* <Navbar /> */}
 
       <Routes>
         <Route path="/" element={<Home />} />
@@ -33,7 +37,7 @@ function App() {
         <Route path="*" element={<Home />} />
       </Routes>
 
-      <Footer />
+      <BlackFooter />
 
     </>
   );

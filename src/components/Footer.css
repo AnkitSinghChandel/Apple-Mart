@@ -2,6 +2,13 @@
     color: red;
 }
 
+.verticalLine {
+    /* border-right: thick solid #e3d8d8; */
+    border-right: solid;
+    padding-left: 30px;
+
+}
+
 #imagelast {
     width: 5%;
     height: 5%;
